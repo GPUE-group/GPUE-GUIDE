@@ -90,7 +90,7 @@ As indicated in the helpfile, gpue may be run by concatenating many flags togeth
 When setting a potential with the `-v` flag, an appropriate trial wavefunction is generated for the trap. Currently, the following potentials are allowed:
 
 * `harmonic` -- This is the standard $$\frac{m}{2}\left((\omega_x x)^2 + (\omega_y y)^2 + (\omega_z z)^2\right)$$
-* `torus` -- This extends the harmonic trap in a torus as discussed below
+* `torus` -- This extends the harmonic trap in a torus as discussed in the [GPUE Definitions](./GPUE_definitions.md) section.
 
 
 ## Running GPUE on a cluster
