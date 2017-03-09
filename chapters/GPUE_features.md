@@ -1,4 +1,4 @@
-# GPUE features
+# GPUE Features
 
 TO BE ADDED!
 
